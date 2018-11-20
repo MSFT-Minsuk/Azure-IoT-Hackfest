@@ -1,2 +1,4 @@
-# Azure-IoT-Heckfest
-This is a github repo for Azure IoT Heckfest for customer
+# Azure-IoT-Hackfest
+Azure IoT Solution Accelerator(https://azure.microsoft.com/en-us/features/iot-accelerators/)를 활용한 HackFest 시나리오
+
+# 아키텍처
